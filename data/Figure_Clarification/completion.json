@@ -1,0 +1,8 @@
+{
+  "status": "COMPLETE",
+  "scored_meshes": 15,
+  "reference_solves": 3,
+  "total_forward_solves": 18,
+  "independent_physical_validation": false,
+  "max_h005_strain_error": 5.850305572357825e-05
+}
